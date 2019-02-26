@@ -18,3 +18,6 @@
 ## Gholizadeh S., Zadrozny W. [A Short Survey of Topological Data Analysis in Time Series and Systems Analysis](https://arxiv.org/pdf/1809.10745.pdf)
 
 ## Konstantin Mischaikow
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4293020
+
+## Liz Bradley
