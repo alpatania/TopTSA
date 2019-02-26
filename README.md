@@ -5,7 +5,7 @@
   > [19] R. MacPherson and B. Schweinhart.  Measuring shape with topology. Journal of Mathematical Physics, 53(7):073516, 2012  
   > [24] V. Robins. Towards computing homology from finite approximations. In Topology proceedings, volume 24, pages 503–532, 1999  
 
-  > **[...] The underlying shape of [the sliding window embedding] can be used in inference, classification and learnink tasks**  
+  > **[...] The underlying shape of [the sliding window embedding] can be used in inference, classification and learning tasks**  
   > [12] J. Garland, E. Bradley, and J. D. Meiss. Exploring the topology of dynamical reconstructions. Physica D: Nonlinear Phenomena, 334:49–59, 2016.  
   > [30] B.  Xu,  C.  J.  Tralie,  A.  Antia,  M.  Lin,  and  J.  A.  Perea.   Twisty  takens:  Ageometric characterization of good observations on dense trajectories.arXivpreprint arXiv:1809.07131  
 
