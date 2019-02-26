@@ -21,3 +21,6 @@
 https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4293020
 
 ## Liz Bradley
+
+## Jose' Perea
+https://math.msu.edu/user_content/docs/quasiperiodicity_video20170501220653645.pdf
