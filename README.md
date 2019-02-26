@@ -1,4 +1,5 @@
 # References
+
 ## Perea J.A. (2018) [Topological Time Series Analysis](https://arxiv.org/pdf/1812.05143.pdf)  
   > **[...] measures of fractal geometry can also be derived from persistent homology**  
   > [19] R. MacPherson and B. Schweinhart.  Measuring shape with topology. Journal of Mathematical Physics, 53(7):073516, 2012  
@@ -14,3 +15,6 @@
   > [29]  C. J. Tralie and J. A. Perea.  (quasi) periodicity quantification in video data,using topology.SIAM Journal on Imaging Sciences, 11(2):1049–1077, 2018  
   > [10]  A. Dirafzoon, N. Lokare, and E. Lobaton.  Action classification from motioncapture data using topological data analysis.  InSignal and Information Pro-cessing (GlobalSIP), 2016 IEEE Global Conference on, pages 1260–1264. IEEE,2016  
   
+## Gholizadeh S., Zadrozny W. [A Short Survey of Topological Data Analysis in Time Series and Systems Analysis](https://arxiv.org/pdf/1809.10745.pdf)
+
+## Konstantin Mischaikow
