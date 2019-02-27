@@ -18,9 +18,13 @@
 ## Gholizadeh S., Zadrozny W. [A Short Survey of Topological Data Analysis in Time Series and Systems Analysis](https://arxiv.org/pdf/1809.10745.pdf)
 
 ## Konstantin Mischaikow
-https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4293020
+(https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4293020)
 
 ## Liz Bradley
 
 ## Jose' Perea
-https://math.msu.edu/user_content/docs/quasiperiodicity_video20170501220653645.pdf
+(https://math.msu.edu/user_content/docs/quasiperiodicity_video20170501220653645.pdf)
+
+## Further reading
+(https://www.math.stonybrook.edu/~dennis/publications/PDF/DS-pub-0018.pdf)
+(https://pdfs.semanticscholar.org/c9a3/547914d9711aeafdc020774f0808d3969213.pdf)
