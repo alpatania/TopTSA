@@ -32,3 +32,4 @@
 (https://royalsocietypublishing.org/doi/full/10.1098/rspa.2018.0027)
 [period detection for gene data](https://arxiv.org/pdf/1410.0608.pdf)
 [Chaos detection using TDA](https://arxiv.org/pdf/1902.05918.pdf)
+[has an example with phase space of a pendulum](https://s3.amazonaws.com/cdn.ayasdi.com/wp-content/uploads/2017/03/29160211/1-s2.0-S2452310016300270-main.pdf)
