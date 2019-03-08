@@ -13,8 +13,9 @@
   > [4] J. J. Berwald, M. Gidea, and M. Vejdemo-Johansson.  Automatic recognitionand tagging of topologically different regimes in dynamical systems.Disconti-nuity, Nonlinearity, and Complexity, 3(4):413–126, 2014.  
   > [28]  C. J. Tralie and M. Berger. Topological eulerian synthesis of slow motion peri-odic videos. In2018 25th IEEE International Conference on Image Processing(ICIP), pages 3573–3577, 2018.  
   > [29]  C. J. Tralie and J. A. Perea.  (quasi) periodicity quantification in video data,using topology.SIAM Journal on Imaging Sciences, 11(2):1049–1077, 2018  
-  > [10]  A. Dirafzoon, N. Lokare, and E. Lobaton.  Action classification from motioncapture data using topological data analysis.  InSignal and Information Pro-cessing (GlobalSIP), 2016 IEEE Global Conference on, pages 1260–1264. IEEE,2016  
-  
+  > [10]  A. Dirafzoon, N. Lokare, and E. Lobaton.  Action classification from motioncapture data using topological data analysis.  InSignal and Information Pro-cessing (GlobalSIP), 2016 IEEE Global Conference on, pages 1260–1264. IEEE,2016 
+  > Saba Emrani, Thanos Gentimis and Hamid Krim (2014) IEEE [Wheeze detection](https://arxiv.org/pdf/1305.3879.pdf)
+
 ## Gholizadeh S., Zadrozny W. [A Short Survey of Topological Data Analysis in Time Series and Systems Analysis](https://arxiv.org/pdf/1809.10745.pdf)
 
 ## Konstantin Mischaikow
