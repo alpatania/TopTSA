@@ -31,9 +31,9 @@
  
 
 ## Further reading
-(https://www.math.stonybrook.edu/~dennis/publications/PDF/DS-pub-0018.pdf)  
-(https://pdfs.semanticscholar.org/c9a3/547914d9711aeafdc020774f0808d3969213.pdf)  
-(https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.032313)  
+(1974)[HOMOLOGY THEORY AND DYNAMICAL SYSTEMS](https://www.math.stonybrook.edu/~dennis/publications/PDF/DS-pub-0018.pdf)  
+[The Homological Nature of Entropy](https://pdfs.semanticscholar.org/c9a3/547914d9711aeafdc020774f0808d3969213.pdf)  
+[Using persistent homology to reveal hidden covariates in systems governed by the kinetic Ising model](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.032313)  
 (https://royalsocietypublishing.org/doi/full/10.1098/rspa.2018.0027)  
 period detection for gene data (https://arxiv.org/pdf/1410.0608.pdf)  
 Chaos detection using TDA(https://arxiv.org/pdf/1902.05918.pdf)  
