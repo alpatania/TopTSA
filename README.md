@@ -17,6 +17,8 @@
   > Saba Emrani, Thanos Gentimis and Hamid Krim (2014) IEEE [Wheeze detection](https://arxiv.org/pdf/1305.3879.pdf)
 
 ## Myers, Munch, Khasawneh (2019) [Persistent homology of complex networks for dynamic state detection](https://arxiv.org/pdf/1904.07403.pdf) 
+This paper has example applications to EEG and ECG:  
+
 
 ## Gholizadeh S., Zadrozny W. (2018) [A Short Survey of Topological Data Analysis in Time Series and Systems Analysis](https://arxiv.org/pdf/1809.10745.pdf)
 
@@ -31,11 +33,14 @@
  
 
 ## Further reading
+
+[A Look into Chaos Detection through Topological Data Analysis](https://arxiv.org/pdf/1902.05918.pdf) 
 (1974)[HOMOLOGY THEORY AND DYNAMICAL SYSTEMS](https://www.math.stonybrook.edu/~dennis/publications/PDF/DS-pub-0018.pdf)  
-[The Homological Nature of Entropy](https://pdfs.semanticscholar.org/c9a3/547914d9711aeafdc020774f0808d3969213.pdf)  
 [Using persistent homology to reveal hidden covariates in systems governed by the kinetic Ising model](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.032313)  
-(https://royalsocietypublishing.org/doi/full/10.1098/rspa.2018.0027)  
-period detection for gene data (https://arxiv.org/pdf/1410.0608.pdf)  
-[A Look into Chaos Detection through Topological Data Analysis](https://arxiv.org/pdf/1902.05918.pdf)  
+
+[Topological data analysis for true step detection in periodic piecewise constant signals](https://royalsocietypublishing.org/doi/full/10.1098/rspa.2018.0027)  
+
+period detection for gene data [Robust Detection of Periodic Patterns in GeneExpression Microarray Data using Topological Signal  Analysis](https://arxiv.org/pdf/1410.0608.pdf)   
 has an example with phase space of a pendulum[Topological methods for genomics](https://s3.amazonaws.com/cdn.ayasdi.com/wp-content/uploads/2017/03/29160211/1-s2.0-S2452310016300270-main.pdf)  
-  Theory behind distinguishability of fMRI signal [Gauging functional brain activity: from distinguishability to accessibility](https://arxiv.org/pdf/1902.08511.pdf)
+[The Homological Nature of Entropy](https://pdfs.semanticscholar.org/c9a3/547914d9711aeafdc020774f0808d3969213.pdf)  
+Theory behind distinguishability of fMRI signal [Gauging functional brain activity: from distinguishability to accessibility](https://arxiv.org/pdf/1902.08511.pdf)
