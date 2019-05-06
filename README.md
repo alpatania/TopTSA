@@ -27,6 +27,7 @@
 (https://math.msu.edu/user_content/docs/quasiperiodicity_video20170501220653645.pdf)
 
 ## Further reading
+(https://arxiv.org/pdf/1904.07403.pdf)
 (https://www.math.stonybrook.edu/~dennis/publications/PDF/DS-pub-0018.pdf)  
 (https://pdfs.semanticscholar.org/c9a3/547914d9711aeafdc020774f0808d3969213.pdf)  
 (https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.032313)  
