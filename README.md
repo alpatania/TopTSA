@@ -16,18 +16,21 @@
   > [10]  A. Dirafzoon, N. Lokare, and E. Lobaton.  Action classification from motioncapture data using topological data analysis.  InSignal and Information Pro-cessing (GlobalSIP), 2016 IEEE Global Conference on, pages 1260–1264. IEEE,2016 
   > Saba Emrani, Thanos Gentimis and Hamid Krim (2014) IEEE [Wheeze detection](https://arxiv.org/pdf/1305.3879.pdf)
 
+## Myers, Munch, Khasawneh [Persistent homology of complex networks for dynamic state detection](https://arxiv.org/pdf/1904.07403.pdf) 
+
 ## Gholizadeh S., Zadrozny W. [A Short Survey of Topological Data Analysis in Time Series and Systems Analysis](https://arxiv.org/pdf/1809.10745.pdf)
 
-## Konstantin Mischaikow
+## People
+**Konstantin Mischaikow**  
 (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4293020)
 
-## Liz Bradley
+**Liz Bradley**  
 
-## Jose' Perea
+**Jose' Perea**  
 (https://math.msu.edu/user_content/docs/quasiperiodicity_video20170501220653645.pdf)
+ 
 
 ## Further reading
-(https://arxiv.org/pdf/1904.07403.pdf)
 (https://www.math.stonybrook.edu/~dennis/publications/PDF/DS-pub-0018.pdf)  
 (https://pdfs.semanticscholar.org/c9a3/547914d9711aeafdc020774f0808d3969213.pdf)  
 (https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.032313)  
