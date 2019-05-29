@@ -28,7 +28,8 @@ An interesting new approach to dynamic state detection using persistent homology
 
 ## People
 **Konstantin Mischaikow**  
-(https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4293020)
+the old school of standard topology and dynamical systems
+[Vector Field Editing and Periodic Orbit Extraction Using Morse Decomposition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4293020)
 
 **Liz Bradley**  
 Dynamic and TDA -- more mathsy
@@ -38,6 +39,9 @@ Dynamic and TDA -- more mathsy
 
 **C. J. Tralie**
  time series embedding -- using the song approach for EEG dynamic?
+ 
+ **Marco Pettini**
+ has some papers with Vaccarino about detection of ohase states and transitions in dynamical systems
 
 ## Further reading
 
