@@ -1,4 +1,5 @@
 # References
+Lately it has come more evident that there is a fast growing community of researchers working with topological tools in dynamical systems, signal theory and time series analysis. This is and attempt to put together resources in this field as i go through them.  
 
 ## Perea J.A. (2018) [Topological Time Series Analysis](https://arxiv.org/pdf/1812.05143.pdf)  
 This paper is a short review to the way TDA, and in particular persistent homology, has been used for time series analysis.  
