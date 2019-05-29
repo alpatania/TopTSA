@@ -37,10 +37,10 @@ Dynamic and TDA -- more mathsy
 **Jose' Perea**  
 [Video and quasi-periodicity](https://math.msu.edu/user_content/docs/quasiperiodicity_video20170501220653645.pdf)
 
-**C. J. Tralie**
+**C. J. Tralie**  
  time series embedding -- using the song approach for EEG dynamic?
  
- **Marco Pettini**
+ **Marco Pettini**  
  has some papers with Vaccarino about detection of ohase states and transitions in dynamical systems
 
 ## Further reading
