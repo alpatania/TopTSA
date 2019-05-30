@@ -45,7 +45,7 @@ Dynamic and TDA -- more mathsy
 
 ## Further reading
 
-**Dynamics** 
+**Dynamics**  
 [A Look into Chaos Detection through Topological Data Analysis](https://arxiv.org/pdf/1902.05918.pdf)  
 [HOMOLOGY THEORY AND DYNAMICAL SYSTEMS](https://www.math.stonybrook.edu/~dennis/publications/PDF/DS-pub-0018.pdf)(1974)  
 [Using persistent homology to reveal hidden covariates in systems governed by the kinetic Ising model](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.032313)  
