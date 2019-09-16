@@ -51,7 +51,7 @@ Dynamic and TDA -- more mathsy
 [Using persistent homology to reveal hidden covariates in systems governed by the kinetic Ising model](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.032313)  
 
 **Signal theory** 
-[Topological Signal Processing overSimplicial Complexes](https://arxiv.org/pdf/1907.11577.pdf)
+[Topological Signal Processing overSimplicial Complexes](https://arxiv.org/pdf/1907.11577.pdf)  
 [Topological data analysis for true step detection in periodic piecewise constant signals](https://royalsocietypublishing.org/doi/full/10.1098/rspa.2018.0027) 
 
 **Useful(?) Theory**  
