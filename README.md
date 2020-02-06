@@ -32,7 +32,7 @@ the old school of standard topology and dynamical systems
 [Vector Field Editing and Periodic Orbit Extraction Using Morse Decomposition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4293020)
 
 **Liz Bradley**  
-Dynamic and TDA -- more mathsy (https://github.com/lizbradley/PHETS)
+Dynamic and TDA -- more mathsy [PHETS code: Persistent Homology of Embedded Time series](https://github.com/lizbradley/PHETS)
 
 **Jose' Perea**  
 [Video and quasi-periodicity](https://math.msu.edu/user_content/docs/quasiperiodicity_video20170501220653645.pdf)
