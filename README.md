@@ -33,6 +33,7 @@ the old school of standard topology and dynamical systems
 
 **Liz Bradley**  
 Dynamic and TDA -- more mathsy [PHETS code: Persistent Homology of Embedded Time series](https://github.com/lizbradley/PHETS)
+[Exploring the topology of dynamical reconstruction](https://www.sciencedirect.com/science/article/pii/S0167278916000464)
 
 **Jose' Perea**  
 [Video and quasi-periodicity](https://math.msu.edu/user_content/docs/quasiperiodicity_video20170501220653645.pdf)
